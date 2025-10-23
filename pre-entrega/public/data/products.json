@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "Budín de limón",
+    "price": 4500,
+    "category": "dulce",
+    "description": "Budín húmedo de limón con glaseado casero.",
+    "imageUrl": "/images/budin-limon.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Pan de masa madre",
+    "price": 3200,
+    "category": "salado",
+    "description": "Hogaza de 750 g con fermentación lenta de 24 horas.",
+    "imageUrl": "/images/pan-masa-madre.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Croissant de manteca",
+    "category": "dulce",
+    "price": 1200,
+    "description": "Hojaldre 100% manteca, crujiente por fuera y tierno por dentro.",
+    "imageUrl": "/images/croissant.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Tarta de manzana",
+    "category": "dulce",
+    "price": 3800,
+    "description": "Clásica tarta con base de masa sablée, relleno de manzanas caramelizadas y un toque de canela.",
+    "imageUrl": "/images/tarta-de-manzana.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Scones de queso",
+    "category": "salado",
+    "price": 2500,
+    "description": "Scones salados elaborados con queso estacionado, dorados por fuera y suaves por dentro.",
+    "imageUrl": "/images/scones-de-queso.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Libritos de grasa",
+    "category": "salado",
+    "price": 2200,
+    "description": "Panecillos hojaldrados con grasa vacuna, crujientes por fuera y suaves por dentro. Perfectos para acompañar con el mate.",
+    "imageUrl": "/images/libritos-de-grasa.jpg"
+  }
+
+]
