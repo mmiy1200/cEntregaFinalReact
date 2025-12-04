@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "Budín de limón",
+    "price": 4500,
+    "category": "dulce",
+    "description": "Budín húmedo de limón con glaseado casero.",
+    "imageUrl": "https://i.ibb.co/5xY63g1K/budindelimon-min.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Pan de masa madre",
+    "price": 3200,
+    "category": "salado",
+    "description": "Hogaza de 750 g con fermentación lenta de 24 horas.",
+    "imageUrl": "https://i.ibb.co/yBhs25LZ/panmasamadre-min.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Croissant de manteca",
+    "price": 1200,
+    "category": "dulce",
+    "description": "Hojaldre 100% manteca, crujiente por fuera y tierno por dentro.",
+    "imageUrl": "https://i.ibb.co/twfcCx1T/croissant-min.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Tarta de manzana",
+    "price": 3800,
+    "category": "dulce",
+    "description": "Clásica tarta con base de masa sablée, relleno de manzanas caramelizadas y un toque de canela.",
+    "imageUrl": "https://i.ibb.co/DPCRdTJB/tartademanzana-min.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Scones de queso",
+    "price": 2500,
+    "category": "salado",
+    "description": "Scones salados elaborados con queso estacionado, dorados por fuera y suaves por dentro.",
+    "imageUrl": "https://i.ibb.co/hxBKh8VG/sconesdequeso-min.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Libritos de grasa",
+    "price": 2200,
+    "category": "salado",
+    "description": "Panecillos hojaldrados con grasa vacuna, crujientes por fuera y suaves por dentro. Perfectos para acompañar con el mate.",
+    "imageUrl": "https://i.ibb.co/wZcy3fdr/libritosdegrasa-min.jpg"
+  }
+
+]
